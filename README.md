@@ -7,12 +7,16 @@ This program is designed to generate a random password based on the criteria of 
 I learned the the power of using functions and creating a javascript file that is organized and easy to read. I learned how to better us while loops and how to create a new array which comprises of already existing arrays. 
 
 ## Technologis Used
-# Java Script
-# HTML
-# CSS
+- Java Script
+- HTML
+- CSS
 
 ## Screen Shots
 <img src="pswdHome.jpg" alt="Home Page of Password generator">;
 <img src="prompt.jpg" alt="Image of prompts">;
-<img src="generatePsswd.jpg" alt="final randomized password">;
+<img src="generatedPsswd.jpg" alt="final randomized password">;
 
+## Links
+https://jason-jorgensen.github.io/Password-Generator/index
+
+https://github.com/Jason-Jorgensen/Password-Generator
