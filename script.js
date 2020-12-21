@@ -70,12 +70,6 @@ function generatePassword() {
 }
 
 
-// var password = generatePassword();
-// var password = writePassword();
-// var passwordText = document.querySelector("#password");
-// passwordText.value = password;
-
-
 
 
 
